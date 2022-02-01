@@ -3,3 +3,5 @@ I'm just adding some simple text
 Here, have some more text
 
 maybe some more??
+
+Today is Feb 1 and I'm trying to get used to using git. 
